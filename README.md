@@ -22,7 +22,7 @@ SEP-10 is a required dependency for this SEP.
 
 ## Motivation
 
-Sign in with Ethereum (https://login.xyz/) provides an easy way to sign in to websites using your Ethereum account. SEP-10 attempts to provide a similar ability for Stellar users, however because it does not have a simple predefined flow for a wallet to access a DAPP, it is not as simple as Ethereum. This SEP attempts to provide a simple and secure way for users to sign in to websites using their Stellar account.
+[Sign in with Ethereum](https://login.xyz/) provides an easy way to sign in to websites using your Ethereum account. SEP-10 attempts to provide a similar ability for Stellar users, however because it does not have a simple predefined flow for a wallet to access a DAPP, it is not as simple as Ethereum. This SEP attempts to provide a simple and secure way for users to sign in to websites using their Stellar account.
 
 ## Abstract
 
