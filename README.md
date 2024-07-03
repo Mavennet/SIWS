@@ -46,6 +46,7 @@ The website generates a random challenge. The challenge must be a cryptographica
   "timestamp": "ISO_8601_timestamp",
   "domain": "example.com"
 }
+```
 
 - `challenge`: A cryptographically secure random string.
 - `timestamp`: The current timestamp in ISO 8601 format.
