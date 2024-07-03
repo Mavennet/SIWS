@@ -40,7 +40,7 @@ The website generates a random challenge. The challenge must be a cryptographica
 
 **Challenge Format:**
 
-````json
+```json
 {
   "challenge": "random_challenge_string",
   "timestamp": "ISO_8601_timestamp",
@@ -69,10 +69,10 @@ The wallet signs the challenge with the user's Stellar account. The signature is
 
 ```json
 {
-  "public_key": "G...ABC",  // User's Stellar public key
+  "public_key": "G...ABC", // User's Stellar public key
   "signature": "base64_encoded_signature"
 }
-````
+```
 
 - `public_key`: The public key of the user's Stellar account.
 - `signature`: The signature of the `challenge` field, encoded in base64.
