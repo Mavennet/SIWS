@@ -112,6 +112,11 @@ else:
     print("Signature is invalid.")
 ```
 
+### The flow
+
+The following diagram illustrates the end to end flow.
+![Sequence Diagram](./image.png)
+
 ### Error Handling
 
 - **Invalid Signature**: If the signature verification fails, the website should reject the login attempt and prompt the user to try again.
